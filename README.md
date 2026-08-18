@@ -10,7 +10,8 @@ noirs**, la **bulle de warp d'Alcubierre** et la **Loi de Cohérence Topologique
 (LCT)**. Fait pour expliquer les concepts compliqués avec des figures, et pour
 répondre aux sceptiques avec des preuves vérifiables.
 
-▶️ **Ouvrir le site** : [`index.html`](index.html) (page web autonome, 13 figures intégrées)
+▶️ **Ouvrir le site scientifique (rendu live)** : https://evinajonathan13-max.github.io/scientist-research-/
+💬 Code source du site : [`index.html`](index.html) (page web autonome, 13 figures intégrées)
 
 ---
 
