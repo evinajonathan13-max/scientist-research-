@@ -1,6 +1,7 @@
 # scientist-research — Trous noirs, Alcubierre & la Loi de Cohérence Topologique
 
-> **Auteur** : Jonathan Evina · ORCID 0009-0000-4092-5313 · DOI 10.17605/OSF.IO/6JZMB
+> **Auteur** : Jonathan Evina · ORCID 0009-0000-4092-5313
+> **Loi LCT (preprint)** : [DOI 10.17605/OSF.IO/WF7QM](https://doi.org/10.17605/OSF.IO/WF7QM) · **P vs NP** : [DOI 10.17605/OSF.IO/6JZMB](https://doi.org/10.17605/OSF.IO/6JZMB)
 > **Propriété intellectuelle** : JOHNKING0 & Jonathan Evina
 > **Loi fondamentale** : LCT (R = P_sig, ΔW = η·φ·P_sig·C) — **figée**
 > **Statut** : recherche en cours — résultats honnêtes (validés + limites documentées)
@@ -147,9 +148,10 @@ python scripts/generate_all_figures.py
 
 ## Redirections (loi LCT, preuves, preprint)
 
-- **Preprint (OSF)** : https://doi.org/10.17605/OSF.IO/6JZMB
+- **Loi LCT (preprint officiel)** : https://doi.org/10.17605/OSF.IO/WF7QM
+- **P vs NP (preprint)** : https://doi.org/10.17605/OSF.IO/6JZMB
 - **IBM Quantum (vérifier les jobs QPU)** : https://www.ibm.com/quantum
-- **Loi LCT (dépôt AEON)** : `RATISS-ODV-AEON/kernel/ttf/lct_law.py`
+- **Loi LCT (code formel)** : `RATISS-ODV-AEON/kernel/ttf/lct_law.py`
 - **Projet warp (application à Alcubierre)** : modules `warp/` (métrique, Λ_LCT,
   noyau universel, dissociation, stabilité, S_vN)
 
